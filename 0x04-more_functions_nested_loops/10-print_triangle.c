@@ -1,4 +1,8 @@
-#include "holberton.h"
+/*
+ * File: 10-print_triangle.c
+ */
+
+#include "main.h"
 
 /**
  * print_triangle - Prints a triangle, using the character #.
