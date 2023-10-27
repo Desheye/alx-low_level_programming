@@ -1,4 +1,3 @@
-#include "main.h"
 /**
  * flip_bits - Counts the number of bits needed to flip to make n equal to m.
  * @n: The first number.
